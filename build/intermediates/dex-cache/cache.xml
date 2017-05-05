@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_4800ef7981efcec3681b6ba042e526f02c63fe6d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f3589f20769f32f3a320b9d349c60081f44b7733">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a55a364915b0a3a1ec6a199453e11a788d511cc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_fed0fa29afb2a7b738f9938286dff464c89560e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_5c556c3c2b23e6a6b9402addf154eb26c52cc4a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_40237e816964a3eabff96c8490bc08f56f64fc6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_a860fafcae859c55dca873b17e1e4e8a328cf7ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_3de2370c65276252bd347141dcc7042e5f8d3d9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_72c23e33ff72f2f9003dcc6f3afc15c34615446f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_9e9ea836edd3941405dba372b9300d0035a6b34d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_d4aca2c89f6d34e8c758f516ed31f8c37d5700a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_48d4fd4736a751e72d65cb43e30b04563787cdde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7407e4dc8d3767e582a339cd04cecc5126c6d86">
+        <dex dex="C:\Users\Owner\AndroidStudioProjects\EncryptionTextMessages\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9149e339cf821f29d181fa7aafe2dd289eba9b9c\classes.dex" />
+    </item>
+
+</items>
